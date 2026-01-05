@@ -4,8 +4,8 @@ Script for wallpaper change by [T3RRY](https://www.dostips.com/forum/memberlist.
 
 Made to be used together to change wallpaper from a folder or any of their subfloders in windows 11 and I am pretty sure 10 too
 
-You will have to change the YOUR-WALLPAPERS-FOLDER part in the random_file.bat script to the folder containing the pictures from which you want the wallpaper to be selected
-IT IS EXTREMELY IMPORTANT THAT THIS FOLDER AND ALL OF ITS SUBFLODERS CONTAIN ONLY IMMAGES FOR THIS TO WORK
+You will have to change the YOUR-WALLPAPERS-FOLDER part in the random_file.bat script to the folder containing the pictures from which you want the wallpaper to be selected  
+**IT IS EXTREMELY IMPORTANT THAT THIS FOLDER AND ALL OF ITS SUBFLODERS CONTAIN ONLY IMMAGES FOR THIS TO WORK**
 
 You will also have to change the REPO-FOLDER part of the script to the path in which you placed the downloaded repo
 
