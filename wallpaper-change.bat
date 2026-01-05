@@ -246,6 +246,5 @@ If (Test-Path $Image) {
 }else {
     write-output "Wallpaper Does not exist in the Directory Tree."
 }
-TASKKILL /F /IM cmd.exe
 
 

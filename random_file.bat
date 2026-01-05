@@ -21,5 +21,5 @@ exit /b
 set /a "randomNum=(%random% %% cnt) + 1"
 for /f "tokens=1* delims=:" %%A in (
   'findstr "^%randomNum%:" "%tempFile%"'
-) do start "" "REPO-FOLDER\wallpaper-change.bat" %%B
+) do "REPO-FOLDER\wallpaper-change.bat" %%B
 exit /b
