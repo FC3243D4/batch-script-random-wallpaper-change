@@ -1,7 +1,7 @@
 @echo off
 setlocal
 
-cd /D D:\wallpapers\32-9
+cd /D YOUR-WALLPAPERS-FOLDER
 
 :: Create numbered list of files in a temporary file
 set "tempFile=%temp%\%~nx0_fileList_%time::=.%.txt"
@@ -21,5 +21,5 @@ exit /b
 set /a "randomNum=(%random% %% cnt) + 1"
 for /f "tokens=1* delims=:" %%A in (
   'findstr "^%randomNum%:" "%tempFile%"'
-) do start "" "C:\Users\colac\Documents\script wallpaper change\wallpaper-change.bat" %%B
+) do start "" "REPO-FOLDER\wallpaper-change.bat" %%B
 exit /b
