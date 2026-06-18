@@ -1,3 +1,5 @@
+This repo is no longer in development, if you want this functionality and more please go to [here](https://github.com/FC3243D4/Wallpaper-changer) to find a new version with more features
+
 Scripts for random file selction by [dbenham](https://superuser.com/users/109090/dbenham) from [SuperUser forum](https://superuser.com/questions/872048/opening-random-file-from-folder-and-subfolders-with-batch-script-windows-7)
 
 Script for wallpaper change by [T3RRY](https://www.dostips.com/forum/memberlist.php?mode=viewprofile&u=10296) from [DosTips forum](https://www.dostips.com/forum/memberlist.php?mode=viewprofile&u=10296)
